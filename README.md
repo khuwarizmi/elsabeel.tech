@@ -5,7 +5,7 @@
 <img src="al-sabeel-logo.png" alt="Al-Sabeel Logo" width="350"/>
 
 *"Pursue knowledge from the cradle to the grave"*  
-— Islamic Wisdom
+
 
 </div>
 
@@ -15,8 +15,9 @@ Al-Sabeel (The Path) is an educational platform offering interactive learning ro
 ## 💡 The Vision
 This project was born from observing the challenges faced by programming newcomers in today's vast technological landscape: scattered resources, unclear learning paths, and difficulty prioritizing concepts. Drawing inspiration from Islamic values where knowledge is a sacred light, this project aims to create an accessible, organized learning journey that honors our Arab-Islamic heritage of scientific excellence.
 
+**يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ**  
 *"Allah will raise those who have believed among you and those who were given knowledge by degrees."*  
-— Quran 58:11
+
 
 ## ✨ Key Features
 - Comprehensive Roadmaps: 9 specialized programming disciplines
